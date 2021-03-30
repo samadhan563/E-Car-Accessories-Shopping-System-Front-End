@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/E-Car-Accessories-Shopping-System-Project/static/css/main.a0f2539d.chunk.css",
+    "main.js": "/E-Car-Accessories-Shopping-System-Project/static/js/main.b5425519.chunk.js",
+    "main.js.map": "/E-Car-Accessories-Shopping-System-Project/static/js/main.b5425519.chunk.js.map",
+    "runtime-main.js": "/E-Car-Accessories-Shopping-System-Project/static/js/runtime-main.02e09a17.js",
+    "runtime-main.js.map": "/E-Car-Accessories-Shopping-System-Project/static/js/runtime-main.02e09a17.js.map",
+    "static/css/2.f94bdb3a.chunk.css": "/E-Car-Accessories-Shopping-System-Project/static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.3443c040.chunk.js": "/E-Car-Accessories-Shopping-System-Project/static/js/2.3443c040.chunk.js",
+    "static/js/2.3443c040.chunk.js.map": "/E-Car-Accessories-Shopping-System-Project/static/js/2.3443c040.chunk.js.map",
+    "static/js/3.0d8c5c86.chunk.js": "/E-Car-Accessories-Shopping-System-Project/static/js/3.0d8c5c86.chunk.js",
+    "static/js/3.0d8c5c86.chunk.js.map": "/E-Car-Accessories-Shopping-System-Project/static/js/3.0d8c5c86.chunk.js.map",
+    "index.html": "/E-Car-Accessories-Shopping-System-Project/index.html",
+    "static/css/2.f94bdb3a.chunk.css.map": "/E-Car-Accessories-Shopping-System-Project/static/css/2.f94bdb3a.chunk.css.map",
+    "static/css/main.a0f2539d.chunk.css.map": "/E-Car-Accessories-Shopping-System-Project/static/css/main.a0f2539d.chunk.css.map",
+    "static/js/2.3443c040.chunk.js.LICENSE.txt": "/E-Car-Accessories-Shopping-System-Project/static/js/2.3443c040.chunk.js.LICENSE.txt",
+    "static/media/Engine11.21928dab.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/Engine11.21928dab.jpg",
+    "static/media/Engine2.adaac7c4.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/Engine2.adaac7c4.jpg",
+    "static/media/Engine5.821bd52c.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/Engine5.821bd52c.jpg",
+    "static/media/UploadIcon.svg": "/E-Car-Accessories-Shopping-System-Project/static/media/UploadIcon.469126df.svg",
+    "static/media/cylinder.ff97d4d4.gif": "/E-Car-Accessories-Shopping-System-Project/static/media/cylinder.ff97d4d4.gif",
+    "static/media/editProfile.10b3ae84.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/editProfile.10b3ae84.jpg",
+    "static/media/login-icon-png.d64507e5.png": "/E-Car-Accessories-Shopping-System-Project/static/media/login-icon-png.d64507e5.png",
+    "static/media/logo.4671888f.svg": "/E-Car-Accessories-Shopping-System-Project/static/media/logo.4671888f.svg",
+    "static/media/logo.a80cd305.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/logo.a80cd305.jpg",
+    "static/media/registerNew.48b18b38.jpg": "/E-Car-Accessories-Shopping-System-Project/static/media/registerNew.48b18b38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e09a17.js",
+    "static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.3443c040.chunk.js",
+    "static/css/main.a0f2539d.chunk.css",
+    "static/js/main.b5425519.chunk.js"
+  ]
+}
